@@ -70,3 +70,22 @@ body{
     border-radius: 15px;
 
 }
+.form-page{
+    border: 2px solid black;
+    width: 200px;
+    height: 300px;
+    padding: 10px;
+}
+.text-field{
+    border-radius: 5px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+.cart-button{
+    background-color: tomato;
+    width: 70px;
+    height: 40px;
+    padding: 12px;
+     margin: 40px;
+     border-radius: 8px;
+}
